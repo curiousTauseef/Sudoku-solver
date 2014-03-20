@@ -1,7 +1,7 @@
 Sudoku-solver
 =============
 
-Solver for N x N sudoku.
+Solver for N x N sudoku. (N is a squared integer).
 
 We formulate the sudoku as an integer programming problem and solve it using
 glpk (http://www.gnu.org/software/glpk/)
